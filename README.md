@@ -34,7 +34,7 @@ The database consists of 10 main tables:
 ## Setup Instructions
 
 ### Prerequisites
-- MySQL Server (version 8.0 or higher recommended)
+- MySQL Server 
 - MySQL Workbench or command-line client
 
 ### Installation
